@@ -47,12 +47,12 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   font-family: sans-serif;
-  color: #ff69b4; }
+  color: #FF3399; }
 
 a {
-  color: #ff69b4; }
+  color: #FF3399; }
   a:hover {
-    color: #ff69b4; }
+    color: #FF3399; }
 
 #main {
 <<<<<<< Updated upstream
@@ -61,6 +61,6 @@ a {
   padding: 50px; }
 h1 {
 font-size: 8em;
-color: #ff69b4;
+color: #FF3399;
 }
 >>>>>>> Stashed changes
