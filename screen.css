@@ -55,4 +55,12 @@ a {
     color: #ff69b4; }
 
 #main {
+<<<<<<< Updated upstream
   padding: 500px; }
+=======
+  padding: 50px; }
+h1 {
+font-size: 8em;
+color: #ff69b4;
+}
+>>>>>>> Stashed changes
