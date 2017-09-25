@@ -14,7 +14,7 @@ time, mark, audio, video {
   margin: 10;
   padding: 10;
   border: 10;
-  font-size: 100%;
+  font-size: 200%;
   font: inherit;
   vertical-align: baseline; }
 
@@ -29,7 +29,7 @@ table {
   border-spacing: 0; }
 
 caption, th, td {
-  text-align: center;
+  text-align: left;
   font-weight: normal;
   vertical-align: middle; }
 
@@ -47,20 +47,16 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 
 body {
   font-family: sans-serif;
-  color: #ff69b4; }
+  color: #FF3399; }
+  color: #000000; }
 
 a {
-  color: #ff69b4; }
+  color: #FF3399; }
+  color: #000000; }
   a:hover {
-    color: #ff69b4; }
+    color: #FF3399; }
+    color: #311C1C; }
 
 #main {
-<<<<<<< Updated upstream
   padding: 500px; }
-=======
-  padding: 50px; }
-h1 {
-font-size: 8em;
-color: #ff69b4;
-}
->>>>>>> Stashed changes
+color: #FF3399;
