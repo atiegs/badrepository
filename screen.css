@@ -48,6 +48,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
 body {
   font-family: sans-serif;
   color: #FF3399; }
+<<<<<<< HEAD
   color: #000000; }
 
 a {
@@ -59,4 +60,14 @@ a {
 
 #main {
   padding: 500px; }
+<<<<<<< HEAD
 color: #FF3399;
+=======
+=======
+  padding: 50px; }
+h1 {
+font-size: 8em;
+color: #FF3399;
+}
+>>>>>>> Stashed changes
+>>>>>>> 31e1cf7c61f30206e0fd3b99f61ada7b1604c08c
